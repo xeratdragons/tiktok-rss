@@ -1,6 +1,6 @@
 ## RSS feeds
 
--   https://raw.githubusercontent.com/makitsune/tiktok-rss/deploy/rss/twosetviolin.xml
+-   https://raw.githubusercontent.com/xeratdragons/tiktok-rss/deploy/rss/xeratdragons.xml
 
 ---
 
