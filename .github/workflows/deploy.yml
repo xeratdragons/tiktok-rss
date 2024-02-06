@@ -5,7 +5,7 @@ on:
             - .github/workflows/deploy.yml
     workflow_dispatch:
     #schedule:
-    #    - cron: "0 * * * *" # every hour at 0 minutes
+    - cron: "*/10 * * * *" # every hour at 0 minutes
 jobs:
     scheduled:
         runs-on: ubuntu-latest
